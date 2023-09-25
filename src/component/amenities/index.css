@@ -1,0 +1,18 @@
+.amenities {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.amenities__list {
+    display: grid;
+    gap: 12px;
+}
+
+.list-item-available{
+ color: green;
+}
+
+.list-item-unavalaible {
+ color: gray;
+}
